@@ -1,0 +1,10 @@
+# 忽略所有文件
+*
+
+# 但允许这些
+!.gitignore
+!index.html
+
+# 显式忽略系统文件
+.DS_Store
+*.log
